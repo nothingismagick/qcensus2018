@@ -1,5 +1,7 @@
 #### qcensus2018 - documentary repo
 
+[Utopian.io style breakdown and proof of authorship](https://steemit.com/utopian-io/@nothingismagick/qcensus2018-campaign-graphics-breakdown)
+
 ![Quasar on Steem](quasar_on_steem_final.png)
 ![Quasar on Twitter](quasar_on_twitter_final.png)
 
